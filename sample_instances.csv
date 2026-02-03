@@ -1,0 +1,4 @@
+db_instance_identifier,new_instance_type,apply_immediately
+my-sqlserver-prod-01,db.r5.xlarge,false
+my-sqlserver-dev-01,db.r5.large,true
+my-sqlserver-staging-01,db.m5.large,true
